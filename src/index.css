@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+html {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+a {
+    color:#fff;
+    outline:none;
+    text-decoration: none;
+}

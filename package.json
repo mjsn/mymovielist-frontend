@@ -1,0 +1,32 @@
+{
+  "name": "mymovielist-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/icons": "1.0.0-beta.42",
+    "langs": "2.0.0",
+    "language-tags": "1.0.5",
+    "material-ui": "1.0.0-beta.42",
+    "material-ui-icons": "1.0.0-beta.36",
+    "material-ui-image": "3.0.0-pre.7",
+    "material-ui-pagination": "1.1.7",
+    "material-ui-rating": "2.0.0-beta.2",
+    "material-ui-search-bar": "1.0.0-beta.4",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-form-validator-core": "0.4.4",
+    "react-material-ui-form-validator": "2.0.0-beta.9",
+    "react-nl2br": "0.4.0",
+    "react-pagination-custom": "1.0.7",
+    "react-resize-aware": "2.7.0",
+    "react-router-dom": "4.2.2",
+    "react-scripts": "1.1.4",
+    "react-scroll-up": "1.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
